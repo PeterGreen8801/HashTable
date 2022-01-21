@@ -1,4 +1,4 @@
-public class HashTable //extends LinkedList
+public class HashTable 
 {
    private int tableSize = 10;
    static LinkedList[] hashTable;
